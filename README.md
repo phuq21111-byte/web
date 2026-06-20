@@ -1,4 +1,5 @@
 
+
  <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -600,10 +601,10 @@
             <div class="question-card" data-correct="A">
                 <div class="question-text">Câu 1: Để tìm công thức hóa học của hợp chất chứa phần trăm khối lượng nguyên tố A (%A) và khối lượng phân tử M, ta dùng công thức tính chỉ số x nào sau đây?</div>
                 <div class="options-group">
-                    <label class="option-label"><input type="radio" name="m3_q1" value="A"> A. x = (%A . M) / (M<sub>A</sub> . 100).</label>
-                    <label class="option-label"><input type="radio" name="m3_q1" value="B"> B. x = (M<sub>A</sub> . 100) / (%A . M).</label>
-                    <label class="option-label"><input type="radio" name="m3_q1" value="C"> C. x = (%A . M<sub>A</sub>) / (M . 100).</label>
-                    <label class="option-label"><input type="radio" name="m3_q1" value="D"> D. x = (%A . M . M<sub>A</sub>) / 100.</label>
+                    <label class="option-label"><input type="radio" name="m3_q1" value="A"> A. x = (%A . M) / (MA . 100).</label>
+                    <label class="option-label"><input type="radio" name="m3_q1" value="B"> B. x = (MA . 100) / (%A . M).</label>
+                    <label class="option-label"><input type="radio" name="m3_q1" value="C"> C. x = (%A . MA) / (M . 100).</label>
+                    <label class="option-label"><input type="radio" name="m3_q1" value="D"> D. x = (%A . M . MA) / 100.</label>
                 </div>
                 <div class="explanation"><strong>Giải thích:</strong> Chỉ số nguyên tử bằng tổng khối lượng nguyên tử nguyên tố đó trong phân tử chia cho khối lượng phân tử nguyên tố M<sub>A</sub>.</div>
             </div>
@@ -869,10 +870,10 @@
             <div class="question-card" data-correct="C">
                 <div class="question-text">Câu 3: Cho phản ứng tổng quát: A + B → C + D. Biểu thức toán học đúng của định luật bảo toàn khối lượng là</div>
                 <div class="options-group">
-                    <label class="option-label"><input type="radio" name="m5_q3" value="A"> A. m<sub>A</sub> + m<sub>C</sub> = m<sub>B</sub> + m<sub>D</sub>.</label>
-                    <label class="option-label"><input type="radio" name="m5_q3" value="B"> B. m<sub>A</sub> + m<sub>D</sub> = m<sub>B</sub> + m<sub>C</sub>.</label>
-                    <label class="option-label"><input type="radio" name="m5_q3" value="C"> C. m<sub>A</sub> + m<sub>B</sub> = m<sub>C</sub> + m<sub>D</sub>.</label>
-                    <label class="option-label"><input type="radio" name="m5_q3" value="D"> D. m<sub>A</sub> · m<sub>B</sub> = m<sub>C</sub> · m<sub>D</sub>.</label>
+                    <label class="option-label"><input type="radio" name="m5_q3" value="A"> A. mA + mC = mB + mD.</label>
+                    <label class="option-label"><input type="radio" name="m5_q3" value="B"> B. mA + mD = mB + mC.</label>
+                    <label class="option-label"><input type="radio" name="m5_q3" value="C"> C. mA + mB= mC + mD.</label>
+                    <label class="option-label"><input type="radio" name="m5_q3" value="D"> D. mA · mB = mC · mD.</label>
                 </div>
                 <div class="explanation"><strong>Giải thích:</strong> Tổng khối lượng các chất vế trái (tham gia) bằng tổng khối lượng các chất vế phải (sản phẩm).</div>
             </div>
