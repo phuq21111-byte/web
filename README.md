@@ -315,7 +315,7 @@
 <body>
 
     <header>
-        <h1>🚀 CHẤT VÀ SỰ BIẾN ĐỔI CHẤT-KHTN 8</h1>
+        <h1>🚀 CHẤT VÀ SỰ BIẾN ĐỔI CHẤT-KHTN </h1>
         <p>Hành trình khám phá tri thức thông qua không gian Vũ trụ Hóa học lý thú</p>
     </header>
 
@@ -324,7 +324,7 @@
         <button class="nav-btn" onclick="switchSection(2)">Mục 2: Công thức & Hóa trị</button>
         <button class="nav-btn" onclick="switchSection(3)">Mục 3: CT theo % Khối lượng</button>
         <button class="nav-btn" onclick="switchSection(4)">Mục 4: Lập Phương Trình Hóa Học</button>
-        <button class="nav-btn" onclick="switchSection(5)">Mục 5: Định Luật Bảo Toàn KL</button>
+        <button class="nav-btn" onclick="switchSection(5)">Mục 5: Định Luật Bảo Toàn Khối Lượng</button>
     </nav>
 
     <div id="section-1" class="mission-section active">
@@ -798,8 +798,8 @@
                 <div class="question-text">Câu 8: Cân bằng phương trình hóa học sau và tìm tổng hệ số của các chất tham gia phản ứng: Fe₂O₃ + CO → Fe + CO₂</div>
                 <div class="options-group">
                     <label class="option-label"><input type="radio" name="m4_q8" value="A"> A. 3.</label>
-                    <label class="option-label"><input type="radio" name="m4_q8" value="B"> B. 4.</label>
-                    <label class="option-label"><input type="radio" name="m4_q8" value="C"> C. 5.</label>
+                    <label class="option-label"><input type="radio" name="m4_q8" value="B"> B. 5.</label>
+                    <label class="option-label"><input type="radio" name="m4_q8" value="C"> C. 4.</label>
                     <label class="option-label"><input type="radio" name="m4_q8" value="D"> D. 6.</label>
                 </div>
                 <div class="explanation"><strong>Giải thích:</strong> Phương trình cân bằng: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Các chất tham gia ở vế trái có hệ số là 1 (Fe₂O₃) và 3 (CO). Tổng là 1 + 3 = 4.</div>
@@ -920,12 +920,12 @@
             <div class="question-card" data-correct="B">
                 <div class="question-text">Câu 8: Đốt cháy 6g magnesium thu được 10g magnesium oxide (MgO). Khối lượng và thể tích (đkc) của khí oxygen tham gia phản ứng lần lượt là</div>
                 <div class="options-group">
-                    <label class="option-label"><input type="radio" name="m5_q8" value="A"> A. 4 gam và 3,1 lít.</label>
-                    <label class="option-label"><input type="radio" name="m5_q8" value="B"> B. 4 gam và 6,1975 lít.</label>
+                    <label class="option-label"><input type="radio" name="m5_q8" value="A"> A. 4 gam và 6,1975 lít.</label>
+                    <label class="option-label"><input type="radio" name="m5_q8" value="B"> B. 4 gam và 3,1 lít.</label>
                     <label class="option-label"><input type="radio" name="m5_q8" value="C"> C. 16 gam và 24,79 lít.</label>
                     <label class="option-label"><input type="radio" name="m5_q8" value="D"> D. 4 gam và 2,479 lít.</label>
                 </div>
-                <div class="explanation"><strong>Giải thích:</strong> m<sub>O₂</sub> = 10 - 6 = 4 gam => n<sub>O₂</sub> = 4 / 32 = 0,125 mol. Thể tích V = 0,125 × 24,79 = 6,1975 lít (đkc).</div>
+                <div class="explanation"><strong>Giải thích:</strong> m<sub>O₂</sub> = 10 - 6 = 4 gam => n<sub>O₂</sub> = 4 / 32 = 0,125 mol. Thể tích V = 0,125 × 24,79 = 3,09875 lít (đkc).</div>
             </div>
             <div class="question-card" data-correct="B">
                 <div class="question-text">Câu 9: Cho 13 gam kim loại zinc (Zn) tác dụng vừa đủ với dung dịch hydrochloric acid (HCl), sau phản ứng thu được 27,2 g muối zinc chloride (ZnCl₂) và thấy giải phóng 0,4 gam khí hydrogen (H₂). Tổng khối lượng của acid HCl đã tham gia phản ứng là</div>
@@ -1041,4 +1041,3 @@
     </script>
 </body>
 </html>
-
